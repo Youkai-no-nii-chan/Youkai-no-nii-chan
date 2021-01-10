@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Youkai-no-nii-chan/Youkai-no-nii-chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
